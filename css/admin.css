@@ -1,0 +1,12 @@
+#navbarSupportedContent{
+	/*margin-right:-20px;*/
+}
+
+@media (min-width: 992px){
+.navbar-nav{
+	margin-left:  20%;
+}}
+
+#tete,.about{
+	background-color: #F3E8CB;
+}

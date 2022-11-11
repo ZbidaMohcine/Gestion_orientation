@@ -1,0 +1,21 @@
+#img1{
+  width: 80%;
+  height: 80%;  
+
+}
+#img2{
+    width: 80%;
+    height: 80%;
+}
+.head{
+    margin-top: 10px;
+    background-color: rgb(228, 235, 241);
+}
+.title{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: indigo;
+    width: 90%;
+    margin-top: auto;
+    font-size: 1.2cm ;
+    text-align: center;
+}
